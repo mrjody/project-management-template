@@ -1,4 +1,11 @@
-#### Description of Change
+### What type of pull request is this? (check all applicable)
+- [ ] Refactor
+- [ ] Feature
+- [ ] Bug Fix
+- [ ] Optimization
+- [ ] Documentation Update
+
+### Description of Change
 <!--
 Thank you for your Pull Request. Please provide a description above and review
 the requirements below.
